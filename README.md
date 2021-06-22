@@ -1,3 +1,3 @@
-# material-applications #
+# Hello, frontend! #
 
-This repository contains example applications for the course DevOps with Docker.
+This repository contains frontend files for docker project.
